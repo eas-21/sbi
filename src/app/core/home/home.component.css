@@ -1,0 +1,18 @@
+.content {
+    background-color: #EEEEEE;
+    height: 87vh;
+    display: flex;
+    width: 95%;
+}
+.container {
+    background-color: #ffffff;;
+    height: 87vh;
+    display: flex;
+    width: 95%;
+}
+.c-img{
+ height: 350px;
+}
+.carousel-inner{
+    opacity: 0px;
+}
